@@ -1,2 +1,2 @@
 DOMAIN-SUFFIX,itstrue.life
-IP-CIDR,106.53.153.120,no-resolve
+IP-CIDR,106.53.153.120/32,no-resolve
