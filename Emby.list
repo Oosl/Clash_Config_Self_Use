@@ -1,10 +1,15 @@
 # Emby域名关键字
 
+# 终点站
+DOMAIN-SUFFIX, emby.wtf
+
 # 卷毛鼠
-DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX, jmsooo.com
 
-# Peach_Emby
-DOMAIN-SUFFIX, embymv.tk
+# cc emby
+DOMAIN-SUFFIX, cc.ccemby.tk
 
-# MJJ_Emby
-DOMAIN-SUFFIX, mjjemby.org
+# 垃圾 emby
+DOMAIN-SUFFIX, loseremby.org
+DOMAIN-SUFFIX, emby.ml
+DOMAIN-SUFFIX, xmsl.org
